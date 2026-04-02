@@ -4,6 +4,8 @@
 
 Technical education for business professionals, technical teams, and tech learners.
 
+![wrighteckgithub](https://github.com/user-attachments/assets/7bf5cf7b-5fe7-447d-a373-470e9a9f1e28)
+
 ---
 
 ## 🔹 About WrighTeck
