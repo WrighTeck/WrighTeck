@@ -73,12 +73,13 @@ Visit the full platform:
 
 ## 🔹 Final Note
 
+## 🔹 Final Note
+
 Technology is constantly evolving.  
 Clear understanding, structured testing, and effective documentation help teams and individuals keep up and deliver better results.
 
-WrighTeck is built to support that journey.<!--
-**WrighTeck/WrighTeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WrighTeck is built to support that journey.
 
-Here are some ideas to get you started:
+
 
 
