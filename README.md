@@ -21,7 +21,7 @@ Provide clear, practical, and structured guidance that helps people improve how 
 This repository supports both professional and business initiatives through:
 
 - 📄 Software Testing Guides  
-- ✅ Manual Test Cases & QA Workflows  
+- ✅ Test Cases & QA Workflows  
 - 🔄 Testing Strategies & Best Practices  
 - 🔌 API Testing (Postman & Backend Validation)  
 - 🧠 Technical Documentation & User Guides  
