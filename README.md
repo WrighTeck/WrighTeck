@@ -68,8 +68,7 @@ Visit the full platform:
 
 ## 🔹 Connect
 
-- LinkedIn: [(add your link here)](https://www.linkedin.com/in/jean-wright-42129226/)
-
+- LinkedIn: https://www.linkedin.com/in/jean-wright-42129226/
 ---
 
 ## 🔹 Final Note
